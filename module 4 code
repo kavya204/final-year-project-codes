@@ -6,8 +6,8 @@
 #define TX 3
 #define DHT11_PIN 7
 dht DHT;
-String AP = "komal1";// AP NAME
-String PASS = "komal@15";//Password
+String AP = "kavyags";// AP NAME
+String PASS = "kavyags@20";//Password
 String API = "BX7XSI7NGW3M65GY";   // Write API KEY
 String HOST = "api.thingspeak.com";
 String PORT = "80";
